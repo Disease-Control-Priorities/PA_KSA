@@ -1,0 +1,581 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+YLDs (Years Lived with Disability),Saudi Arabia,Male,95+ years,Ischemic heart disease,Number,2019,21.399131039783875,34.41865570790948,12.32697316662502
+YLDs (Years Lived with Disability),Saudi Arabia,Female,95+ years,Ischemic heart disease,Number,2019,15.792634789675493,25.296689140777985,8.719616745799069
+YLDs (Years Lived with Disability),Saudi Arabia,Male,5-9 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,5-9 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,10-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,10-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,15-19 years,Ischemic heart disease,Number,2019,2.6239341402160368,5.221178017121883,0.9938051648492229
+YLDs (Years Lived with Disability),Saudi Arabia,Female,15-19 years,Ischemic heart disease,Number,2019,1.8952635298481255,3.8408519826881418,0.73408424436637
+YLDs (Years Lived with Disability),Saudi Arabia,Male,20-24 years,Ischemic heart disease,Number,2019,29.389537150974938,46.99350248080072,17.097320779567937
+YLDs (Years Lived with Disability),Saudi Arabia,Female,20-24 years,Ischemic heart disease,Number,2019,14.919830368697108,24.99389641726092,8.05523306621438
+YLDs (Years Lived with Disability),Saudi Arabia,Male,25-29 years,Ischemic heart disease,Number,2019,123.20792611850734,223.40237935815048,57.798018177777145
+YLDs (Years Lived with Disability),Saudi Arabia,Female,25-29 years,Ischemic heart disease,Number,2019,52.31028475098319,80.80086203169579,31.102878966124845
+YLDs (Years Lived with Disability),Saudi Arabia,Male,30-34 years,Ischemic heart disease,Number,2019,312.8448759791197,569.3031273733627,146.97669115033682
+YLDs (Years Lived with Disability),Saudi Arabia,Female,30-34 years,Ischemic heart disease,Number,2019,111.2037339295868,202.6342359743467,47.65450047777107
+YLDs (Years Lived with Disability),Saudi Arabia,Male,35-39 years,Ischemic heart disease,Number,2019,620.9293854416193,1019.059116182899,326.9682075943792
+YLDs (Years Lived with Disability),Saudi Arabia,Female,35-39 years,Ischemic heart disease,Number,2019,184.16103250307745,327.6977394393225,86.95116311515655
+YLDs (Years Lived with Disability),Saudi Arabia,Male,40-44 years,Ischemic heart disease,Number,2019,1084.515624718207,1814.2942629059748,600.3685110991504
+YLDs (Years Lived with Disability),Saudi Arabia,Female,40-44 years,Ischemic heart disease,Number,2019,295.3237759059083,500.79834753807586,148.11410270755695
+YLDs (Years Lived with Disability),Saudi Arabia,Male,45-49 years,Ischemic heart disease,Number,2019,1556.601219817257,2405.174728014012,943.7825874811433
+YLDs (Years Lived with Disability),Saudi Arabia,Female,45-49 years,Ischemic heart disease,Number,2019,450.6523738501882,712.6294374887447,261.0838935653229
+YLDs (Years Lived with Disability),Saudi Arabia,Male,50-54 years,Ischemic heart disease,Number,2019,1679.6950898178784,2592.1833432944613,1013.565836783746
+YLDs (Years Lived with Disability),Saudi Arabia,Female,50-54 years,Ischemic heart disease,Number,2019,550.6419836390866,877.5329229206458,323.33809692400035
+YLDs (Years Lived with Disability),Saudi Arabia,Male,55-59 years,Ischemic heart disease,Number,2019,1739.6809147987738,2585.7040797455306,1030.737179446993
+YLDs (Years Lived with Disability),Saudi Arabia,Female,55-59 years,Ischemic heart disease,Number,2019,639.1153912605288,1008.3314109452973,379.30027142965514
+YLDs (Years Lived with Disability),Saudi Arabia,Male,60-64 years,Ischemic heart disease,Number,2019,1646.9558288586047,2485.6794792381547,1011.0793056809855
+YLDs (Years Lived with Disability),Saudi Arabia,Female,60-64 years,Ischemic heart disease,Number,2019,652.9593254494229,1001.15617489396,393.41044596845626
+YLDs (Years Lived with Disability),Saudi Arabia,Male,65-69 years,Ischemic heart disease,Number,2019,1552.31665762399,2243.687082542032,976.8643755157577
+YLDs (Years Lived with Disability),Saudi Arabia,Female,65-69 years,Ischemic heart disease,Number,2019,584.9246662790198,859.1868845990431,365.6153673053722
+YLDs (Years Lived with Disability),Saudi Arabia,Male,70-74 years,Ischemic heart disease,Number,2019,1264.9219830848729,1871.064998985406,802.8423701729664
+YLDs (Years Lived with Disability),Saudi Arabia,Female,70-74 years,Ischemic heart disease,Number,2019,436.4820958371971,629.4939967343302,274.07540502660686
+YLDs (Years Lived with Disability),Saudi Arabia,Male,75-79 years,Ischemic heart disease,Number,2019,777.4304388987066,1132.827298468978,489.8784615552313
+YLDs (Years Lived with Disability),Saudi Arabia,Female,75-79 years,Ischemic heart disease,Number,2019,279.23971384231476,405.8155028403112,173.892813457046
+YLDs (Years Lived with Disability),Saudi Arabia,Male,80-84,Ischemic heart disease,Number,2019,416.2741405338828,612.3148135170803,263.4610141662752
+YLDs (Years Lived with Disability),Saudi Arabia,Female,80-84,Ischemic heart disease,Number,2019,193.16477138145441,283.1902759406928,123.65876690884495
+YLDs (Years Lived with Disability),Saudi Arabia,Male,85-89,Ischemic heart disease,Number,2019,198.50621674729896,287.5251790118224,129.35334478579873
+YLDs (Years Lived with Disability),Saudi Arabia,Female,85-89,Ischemic heart disease,Number,2019,132.36927176441776,194.7855737291662,84.64970146296447
+YLDs (Years Lived with Disability),Saudi Arabia,Male,90-94,Ischemic heart disease,Number,2019,93.72368590350204,140.96364486461712,57.66176177305577
+YLDs (Years Lived with Disability),Saudi Arabia,Female,90-94,Ischemic heart disease,Number,2019,73.5618760362882,115.38288783447857,44.51907127014694
+YLDs (Years Lived with Disability),Saudi Arabia,Male,95+ years,Ischemic stroke,Number,2019,11.524522319941322,17.42442718415117,7.081106093253368
+YLDs (Years Lived with Disability),Saudi Arabia,Female,95+ years,Ischemic stroke,Number,2019,22.01258049523159,33.122282223649535,13.827142165229487
+YLDs (Years Lived with Disability),Saudi Arabia,Male,80-84,Diabetes mellitus type 2,Number,2019,1201.1904260640454,1653.1812291650713,821.912343452012
+YLDs (Years Lived with Disability),Saudi Arabia,Female,80-84,Diabetes mellitus type 2,Number,2019,833.4111584358951,1152.2199948836558,563.1876127395159
+YLDs (Years Lived with Disability),Saudi Arabia,Male,85-89,Diabetes mellitus type 2,Number,2019,503.6705220447958,695.582174146369,345.9396622476588
+YLDs (Years Lived with Disability),Saudi Arabia,Female,85-89,Diabetes mellitus type 2,Number,2019,473.82329568412797,661.4075892921229,325.3553599730798
+YLDs (Years Lived with Disability),Saudi Arabia,Male,90-94,Diabetes mellitus type 2,Number,2019,219.0121501163727,309.7723835751788,148.27081907888177
+YLDs (Years Lived with Disability),Saudi Arabia,Female,90-94,Diabetes mellitus type 2,Number,2019,226.55352324853982,317.06079270511526,152.7349698326411
+YLDs (Years Lived with Disability),Saudi Arabia,Male,95+ years,Diabetes mellitus type 2,Number,2019,45.931708281592506,65.35891913083408,29.950304602859585
+YLDs (Years Lived with Disability),Saudi Arabia,Female,95+ years,Diabetes mellitus type 2,Number,2019,41.25213658020411,59.008081007110285,27.20020952027011
+YLDs (Years Lived with Disability),Saudi Arabia,Male,65-69 years,Colon and rectum cancer,Number,2019,107.36887452764034,173.54923236058582,57.05960279391928
+YLDs (Years Lived with Disability),Saudi Arabia,Female,65-69 years,Colon and rectum cancer,Number,2019,36.31197628947549,61.25576384818157,18.451550423787552
+YLDs (Years Lived with Disability),Saudi Arabia,Male,70-74 years,Colon and rectum cancer,Number,2019,61.82668299335614,101.93687948706356,33.16537972223472
+YLDs (Years Lived with Disability),Saudi Arabia,Female,70-74 years,Colon and rectum cancer,Number,2019,25.299275034868778,42.81403717193881,12.670414561476948
+YLDs (Years Lived with Disability),Saudi Arabia,Male,75-79 years,Colon and rectum cancer,Number,2019,33.41638082073188,53.62283870420103,17.649949186509637
+YLDs (Years Lived with Disability),Saudi Arabia,Female,75-79 years,Colon and rectum cancer,Number,2019,15.531189779029999,24.483009746599276,8.226097387673281
+YLDs (Years Lived with Disability),Saudi Arabia,Male,80-84,Colon and rectum cancer,Number,2019,15.006794833308593,23.466132595159213,8.587550284948573
+YLDs (Years Lived with Disability),Saudi Arabia,Female,80-84,Colon and rectum cancer,Number,2019,9.961038957016425,16.30679799254472,5.367150006670449
+YLDs (Years Lived with Disability),Saudi Arabia,Male,85-89,Colon and rectum cancer,Number,2019,6.050576911055045,9.645882621563167,3.120344183613716
+YLDs (Years Lived with Disability),Saudi Arabia,Female,85-89,Colon and rectum cancer,Number,2019,5.828182837477791,9.620934415260441,3.1343619775586977
+YLDs (Years Lived with Disability),Saudi Arabia,Male,90-94,Colon and rectum cancer,Number,2019,2.1475792081124245,3.516473935023963,1.1176527785865122
+YLDs (Years Lived with Disability),Saudi Arabia,Female,90-94,Colon and rectum cancer,Number,2019,2.360238158208703,3.9782320421337856,1.206593230312666
+YLDs (Years Lived with Disability),Saudi Arabia,Male,80-84,Breast cancer,Number,2019,1.0812106605112053,2.64095015859649,0.36454410866138726
+YLDs (Years Lived with Disability),Saudi Arabia,Female,80-84,Breast cancer,Number,2019,27.078234760979356,40.55473366424874,17.35832627198682
+YLDs (Years Lived with Disability),Saudi Arabia,Male,85-89,Breast cancer,Number,2019,0.5414191881649324,1.3637685602483383,0.1857254117062366
+YLDs (Years Lived with Disability),Saudi Arabia,Female,85-89,Breast cancer,Number,2019,12.514328511614087,18.789748797490933,7.91376314139134
+YLDs (Years Lived with Disability),Saudi Arabia,Male,90-94,Breast cancer,Number,2019,0.15858596108410303,0.33593582886162554,0.06873264217151846
+YLDs (Years Lived with Disability),Saudi Arabia,Female,90-94,Breast cancer,Number,2019,4.282055393903406,6.136161564421511,2.7108463356371737
+YLDs (Years Lived with Disability),Saudi Arabia,Male,95+ years,Breast cancer,Number,2019,0.02539742109747699,0.04764098861483772,0.01054716661196822
+YLDs (Years Lived with Disability),Saudi Arabia,Female,95+ years,Breast cancer,Number,2019,0.7550988513149453,1.1162500978010996,0.46582410597153523
+YLDs (Years Lived with Disability),Saudi Arabia,Male,95+ years,Colon and rectum cancer,Number,2019,0.4443688170307157,0.7625211416491191,0.20234127803944513
+YLDs (Years Lived with Disability),Saudi Arabia,Female,95+ years,Colon and rectum cancer,Number,2019,0.42042983425422836,0.7170041535405473,0.1984745862915955
+YLDs (Years Lived with Disability),Saudi Arabia,Male,<5 years,Colon and rectum cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,<5 years,Colon and rectum cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,5-9 years,Colon and rectum cancer,Number,2019,0.6076656669165417,1.2956311657927795,0.26529010744925346
+YLDs (Years Lived with Disability),Saudi Arabia,Female,5-9 years,Colon and rectum cancer,Number,2019,0.23268952455696942,0.46927241783842416,0.10325770595977003
+YLDs (Years Lived with Disability),Saudi Arabia,Male,10-14 years,Colon and rectum cancer,Number,2019,0.6355033634792631,1.237406620286985,0.28843781187933865
+YLDs (Years Lived with Disability),Saudi Arabia,Female,10-14 years,Colon and rectum cancer,Number,2019,0.26864078543053727,0.4810643542586203,0.12331361742785339
+YLDs (Years Lived with Disability),Saudi Arabia,Male,15-19 years,Colon and rectum cancer,Number,2019,2.453495462717121,4.786691929156571,1.115714873172536
+YLDs (Years Lived with Disability),Saudi Arabia,Female,15-19 years,Colon and rectum cancer,Number,2019,1.2880045993581606,2.320454145219251,0.6555123768975343
+YLDs (Years Lived with Disability),Saudi Arabia,Male,20-24 years,Colon and rectum cancer,Number,2019,7.795201089060474,12.993638409183642,4.1428711345653015
+YLDs (Years Lived with Disability),Saudi Arabia,Female,20-24 years,Colon and rectum cancer,Number,2019,3.810435775222345,6.575387994647662,1.972035359131693
+YLDs (Years Lived with Disability),Saudi Arabia,Male,25-29 years,Colon and rectum cancer,Number,2019,19.407381826534927,34.31864329572071,9.785177795416534
+YLDs (Years Lived with Disability),Saudi Arabia,Female,25-29 years,Colon and rectum cancer,Number,2019,9.096863861797248,15.56622066297788,4.986708997737734
+YLDs (Years Lived with Disability),Saudi Arabia,Male,30-34 years,Colon and rectum cancer,Number,2019,48.23750451664709,89.64690884373891,19.761587395308602
+YLDs (Years Lived with Disability),Saudi Arabia,Female,30-34 years,Colon and rectum cancer,Number,2019,19.29758840760273,33.601695972366365,10.230411939592047
+YLDs (Years Lived with Disability),Saudi Arabia,Male,35-39 years,Colon and rectum cancer,Number,2019,92.83307241613856,179.31463434493435,38.43893785876825
+YLDs (Years Lived with Disability),Saudi Arabia,Female,35-39 years,Colon and rectum cancer,Number,2019,33.728870581008714,62.83904837113814,15.851189521800974
+YLDs (Years Lived with Disability),Saudi Arabia,Male,40-44 years,Colon and rectum cancer,Number,2019,132.18455362006748,240.56983147328236,61.53339894416532
+YLDs (Years Lived with Disability),Saudi Arabia,Female,40-44 years,Colon and rectum cancer,Number,2019,53.89512225796066,96.09828818890328,26.31656131339079
+YLDs (Years Lived with Disability),Saudi Arabia,Male,45-49 years,Colon and rectum cancer,Number,2019,143.71635413739162,255.3873854941269,70.72372081559435
+YLDs (Years Lived with Disability),Saudi Arabia,Female,45-49 years,Colon and rectum cancer,Number,2019,71.22058739523187,120.29536147458501,36.6655877404456
+YLDs (Years Lived with Disability),Saudi Arabia,Male,50-54 years,Colon and rectum cancer,Number,2019,144.55385800286697,252.6253741732419,76.73836031616293
+YLDs (Years Lived with Disability),Saudi Arabia,Female,50-54 years,Colon and rectum cancer,Number,2019,77.070402639795,127.63005238224596,41.89194814458708
+YLDs (Years Lived with Disability),Saudi Arabia,Male,55-59 years,Colon and rectum cancer,Number,2019,147.91860926276345,263.0928695808633,70.44450825889734
+YLDs (Years Lived with Disability),Saudi Arabia,Female,55-59 years,Colon and rectum cancer,Number,2019,61.63802928346084,105.35302633363828,27.451226090726013
+YLDs (Years Lived with Disability),Saudi Arabia,Male,60-64 years,Colon and rectum cancer,Number,2019,134.40928512499545,228.4917584707122,68.84174168245595
+YLDs (Years Lived with Disability),Saudi Arabia,Female,60-64 years,Colon and rectum cancer,Number,2019,49.719542843246295,86.11752529342166,23.30570922739938
+YLDs (Years Lived with Disability),Saudi Arabia,Male,<5 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,<5 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,<5 years,Ischemic stroke,Number,2019,50.35112247186243,72.6683794833493,32.010347238430036
+YLDs (Years Lived with Disability),Saudi Arabia,Female,<5 years,Ischemic stroke,Number,2019,71.82125547977806,106.85065222284096,45.90451331484184
+YLDs (Years Lived with Disability),Saudi Arabia,Male,5-9 years,Ischemic stroke,Number,2019,141.38850906696968,234.98565937049565,76.16312464666755
+YLDs (Years Lived with Disability),Saudi Arabia,Female,5-9 years,Ischemic stroke,Number,2019,217.290368685511,395.8424134276257,96.40806298622641
+YLDs (Years Lived with Disability),Saudi Arabia,Male,10-14 years,Ischemic stroke,Number,2019,219.35301658494154,352.309347417603,122.03451488209484
+YLDs (Years Lived with Disability),Saudi Arabia,Female,10-14 years,Ischemic stroke,Number,2019,323.76583217179086,551.9622356882663,147.79623079011856
+YLDs (Years Lived with Disability),Saudi Arabia,Male,15-19 years,Ischemic stroke,Number,2019,310.808375005567,543.440219925251,118.43109331972049
+YLDs (Years Lived with Disability),Saudi Arabia,Female,15-19 years,Ischemic stroke,Number,2019,450.18815091360165,751.1230957909954,221.84483444617575
+YLDs (Years Lived with Disability),Saudi Arabia,Male,20-24 years,Ischemic stroke,Number,2019,494.8253832388913,863.4216568264646,228.357618306512
+YLDs (Years Lived with Disability),Saudi Arabia,Female,20-24 years,Ischemic stroke,Number,2019,679.0747507543671,1049.8275729234404,340.6699535784321
+YLDs (Years Lived with Disability),Saudi Arabia,Male,25-29 years,Ischemic stroke,Number,2019,736.5152388561226,1245.0679411475744,363.93954626829037
+YLDs (Years Lived with Disability),Saudi Arabia,Female,25-29 years,Ischemic stroke,Number,2019,1004.3770146428707,1522.1920739317538,577.9700495985547
+YLDs (Years Lived with Disability),Saudi Arabia,Male,30-34 years,Ischemic stroke,Number,2019,1136.1095494850995,1849.405326305274,612.3288807463076
+YLDs (Years Lived with Disability),Saudi Arabia,Female,30-34 years,Ischemic stroke,Number,2019,1411.0370418079829,2187.0855703729158,829.2785635086734
+YLDs (Years Lived with Disability),Saudi Arabia,Male,35-39 years,Ischemic stroke,Number,2019,1596.6801508901594,2444.0506494224187,907.4497581368356
+YLDs (Years Lived with Disability),Saudi Arabia,Female,35-39 years,Ischemic stroke,Number,2019,1811.6870077438616,2667.4265646195217,1120.3361420940298
+YLDs (Years Lived with Disability),Saudi Arabia,Male,40-44 years,Ischemic stroke,Number,2019,1954.249258304238,2897.2635657162427,1196.2885804432426
+YLDs (Years Lived with Disability),Saudi Arabia,Female,40-44 years,Ischemic stroke,Number,2019,2075.0031475114915,2952.4651860421636,1368.5535896338295
+YLDs (Years Lived with Disability),Saudi Arabia,Male,45-49 years,Ischemic stroke,Number,2019,2110.2087938827926,3028.9220671564735,1303.7139661316924
+YLDs (Years Lived with Disability),Saudi Arabia,Female,45-49 years,Ischemic stroke,Number,2019,2244.482132132033,3155.0451278645523,1454.2380741351271
+YLDs (Years Lived with Disability),Saudi Arabia,Male,50-54 years,Ischemic stroke,Number,2019,2121.0762793329336,2978.8640322601523,1384.3230504927428
+YLDs (Years Lived with Disability),Saudi Arabia,Female,50-54 years,Ischemic stroke,Number,2019,2294.4013035131693,3153.3092375667406,1555.7409352777895
+YLDs (Years Lived with Disability),Saudi Arabia,Male,55-59 years,Ischemic stroke,Number,2019,2338.137911364505,3137.492647826021,1597.816454644157
+YLDs (Years Lived with Disability),Saudi Arabia,Female,55-59 years,Ischemic stroke,Number,2019,2455.312022971431,3251.4392219694573,1696.5505177240152
+YLDs (Years Lived with Disability),Saudi Arabia,Male,60-64 years,Ischemic stroke,Number,2019,2355.6685571601415,3112.4916582149044,1617.5270648758783
+YLDs (Years Lived with Disability),Saudi Arabia,Female,60-64 years,Ischemic stroke,Number,2019,2405.6993219264527,3189.8621487264145,1690.348283698669
+YLDs (Years Lived with Disability),Saudi Arabia,Male,65-69 years,Ischemic stroke,Number,2019,2184.4668354979635,2846.7363848652953,1558.5454887111503
+YLDs (Years Lived with Disability),Saudi Arabia,Female,65-69 years,Ischemic stroke,Number,2019,2050.433517369854,2710.1028038978816,1418.0072239052945
+YLDs (Years Lived with Disability),Saudi Arabia,Male,70-74 years,Ischemic stroke,Number,2019,1811.2682114154843,2397.7880107341707,1279.018491600782
+YLDs (Years Lived with Disability),Saudi Arabia,Female,70-74 years,Ischemic stroke,Number,2019,1555.773344468201,2045.2946096133103,1085.6913092166271
+YLDs (Years Lived with Disability),Saudi Arabia,Male,75-79 years,Ischemic stroke,Number,2019,1121.692945032279,1448.7123603160408,796.6102530627566
+YLDs (Years Lived with Disability),Saudi Arabia,Female,75-79 years,Ischemic stroke,Number,2019,1029.7135100100186,1363.105965486073,741.2672476657933
+YLDs (Years Lived with Disability),Saudi Arabia,Male,80-84,Ischemic stroke,Number,2019,550.3925129985994,729.5546168243568,391.3469425685223
+YLDs (Years Lived with Disability),Saudi Arabia,Female,80-84,Ischemic stroke,Number,2019,682.8145784587311,907.4030739568194,493.9856006342144
+YLDs (Years Lived with Disability),Saudi Arabia,Male,85-89,Ischemic stroke,Number,2019,201.80846008066558,270.6415414196561,139.38223425688903
+YLDs (Years Lived with Disability),Saudi Arabia,Female,85-89,Ischemic stroke,Number,2019,368.475717316078,505.0848780606026,258.4132816003362
+YLDs (Years Lived with Disability),Saudi Arabia,Male,90-94,Ischemic stroke,Number,2019,67.75032623608855,96.82862144917117,42.01628306565515
+YLDs (Years Lived with Disability),Saudi Arabia,Female,90-94,Ischemic stroke,Number,2019,145.93392938630876,210.41464742842248,96.6570838667081
+YLDs (Years Lived with Disability),Saudi Arabia,Male,<5 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,<5 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,5-9 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,5-9 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,10-14 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,10-14 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,15-19 years,Diabetes mellitus type 2,Number,2019,199.63622268023502,415.74382996588065,31.274565821845766
+YLDs (Years Lived with Disability),Saudi Arabia,Female,15-19 years,Diabetes mellitus type 2,Number,2019,147.5270330225775,308.49553080643443,16.922426290211988
+YLDs (Years Lived with Disability),Saudi Arabia,Male,20-24 years,Diabetes mellitus type 2,Number,2019,1157.5496262695108,1969.885794555139,621.9045387432037
+YLDs (Years Lived with Disability),Saudi Arabia,Female,20-24 years,Diabetes mellitus type 2,Number,2019,821.7292720802302,1364.18223877434,442.92434581882065
+YLDs (Years Lived with Disability),Saudi Arabia,Male,25-29 years,Diabetes mellitus type 2,Number,2019,3262.33915343031,5191.323633254527,1879.8551085824013
+YLDs (Years Lived with Disability),Saudi Arabia,Female,25-29 years,Diabetes mellitus type 2,Number,2019,2269.5110263284723,3612.0458809304114,1328.3677099709073
+YLDs (Years Lived with Disability),Saudi Arabia,Male,30-34 years,Diabetes mellitus type 2,Number,2019,6395.196400428163,9649.872423475697,3866.8317393771354
+YLDs (Years Lived with Disability),Saudi Arabia,Female,30-34 years,Diabetes mellitus type 2,Number,2019,4181.6149151953605,6370.64163765612,2576.056037657474
+YLDs (Years Lived with Disability),Saudi Arabia,Male,35-39 years,Diabetes mellitus type 2,Number,2019,9832.096035014896,14833.797117275519,6132.908477560738
+YLDs (Years Lived with Disability),Saudi Arabia,Female,35-39 years,Diabetes mellitus type 2,Number,2019,6024.682393764631,8841.530225598524,3717.5113652919463
+YLDs (Years Lived with Disability),Saudi Arabia,Male,40-44 years,Diabetes mellitus type 2,Number,2019,12422.669071176155,18669.836334164607,7684.25884490081
+YLDs (Years Lived with Disability),Saudi Arabia,Female,40-44 years,Diabetes mellitus type 2,Number,2019,7387.5464688647635,10918.896946664841,4621.79375056868
+YLDs (Years Lived with Disability),Saudi Arabia,Male,45-49 years,Diabetes mellitus type 2,Number,2019,13872.870207027812,20532.936682639334,8649.569105233057
+YLDs (Years Lived with Disability),Saudi Arabia,Female,45-49 years,Diabetes mellitus type 2,Number,2019,8429.476801503768,12543.74797895281,5305.069819945484
+YLDs (Years Lived with Disability),Saudi Arabia,Male,50-54 years,Diabetes mellitus type 2,Number,2019,13377.48091803053,19798.551216364667,8554.896075807996
+YLDs (Years Lived with Disability),Saudi Arabia,Female,50-54 years,Diabetes mellitus type 2,Number,2019,8478.311379843988,12614.32806112977,5366.5483374710075
+YLDs (Years Lived with Disability),Saudi Arabia,Male,55-59 years,Diabetes mellitus type 2,Number,2019,12812.486590356462,18721.030239736578,8293.00534936904
+YLDs (Years Lived with Disability),Saudi Arabia,Female,55-59 years,Diabetes mellitus type 2,Number,2019,7917.488913987756,11381.996195567519,4998.675459875507
+YLDs (Years Lived with Disability),Saudi Arabia,Male,60-64 years,Diabetes mellitus type 2,Number,2019,10914.674744694858,15599.266979220696,7043.326016485474
+YLDs (Years Lived with Disability),Saudi Arabia,Female,60-64 years,Diabetes mellitus type 2,Number,2019,6577.322487179576,9392.966339669902,4259.935687836604
+YLDs (Years Lived with Disability),Saudi Arabia,Male,65-69 years,Diabetes mellitus type 2,Number,2019,8384.636972240085,12135.310880845842,5381.840945977412
+YLDs (Years Lived with Disability),Saudi Arabia,Female,65-69 years,Diabetes mellitus type 2,Number,2019,4663.247665713416,6717.519864737379,2997.845225525939
+YLDs (Years Lived with Disability),Saudi Arabia,Male,70-74 years,Diabetes mellitus type 2,Number,2019,5488.425986963371,7879.968951479805,3524.531198556242
+YLDs (Years Lived with Disability),Saudi Arabia,Female,70-74 years,Diabetes mellitus type 2,Number,2019,2824.892505893238,4078.167319019264,1843.7303442657035
+YLDs (Years Lived with Disability),Saudi Arabia,Male,75-79 years,Diabetes mellitus type 2,Number,2019,2716.307824283831,3798.206554092396,1826.9304718124763
+YLDs (Years Lived with Disability),Saudi Arabia,Female,75-79 years,Diabetes mellitus type 2,Number,2019,1471.4232114140796,2059.6059142812915,983.1135126383128
+YLDs (Years Lived with Disability),Saudi Arabia,Male,<5 years,Breast cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,<5 years,Breast cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,5-9 years,Breast cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,5-9 years,Breast cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,10-14 years,Breast cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Female,10-14 years,Breast cancer,Number,2019,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Saudi Arabia,Male,15-19 years,Breast cancer,Number,2019,0.6084551013719679,1.0512112303758174,0.3122873527787334
+YLDs (Years Lived with Disability),Saudi Arabia,Female,15-19 years,Breast cancer,Number,2019,1.7856442811817739,3.38857403224452,0.7775785943441902
+YLDs (Years Lived with Disability),Saudi Arabia,Male,20-24 years,Breast cancer,Number,2019,0.7263739390316093,1.2506448556352923,0.3895536151906574
+YLDs (Years Lived with Disability),Saudi Arabia,Female,20-24 years,Breast cancer,Number,2019,11.743460947649128,20.178189685134516,6.178543972789653
+YLDs (Years Lived with Disability),Saudi Arabia,Male,25-29 years,Breast cancer,Number,2019,0.8601201596725621,1.5229596645157357,0.45298674926644655
+YLDs (Years Lived with Disability),Saudi Arabia,Female,25-29 years,Breast cancer,Number,2019,62.97174751466453,123.85987411960113,26.18426027915469
+YLDs (Years Lived with Disability),Saudi Arabia,Male,30-34 years,Breast cancer,Number,2019,0.9371598754423481,1.7855052245833014,0.4877261257572602
+YLDs (Years Lived with Disability),Saudi Arabia,Female,30-34 years,Breast cancer,Number,2019,254.4762831048165,470.16461399104986,126.9945824623862
+YLDs (Years Lived with Disability),Saudi Arabia,Male,35-39 years,Breast cancer,Number,2019,1.4712766679985148,3.614183187656146,0.5553371419120143
+YLDs (Years Lived with Disability),Saudi Arabia,Female,35-39 years,Breast cancer,Number,2019,471.93975092252475,851.0286505019159,224.2930041324468
+YLDs (Years Lived with Disability),Saudi Arabia,Male,40-44 years,Breast cancer,Number,2019,3.0805625875517455,8.390049915900594,0.9631052125996643
+YLDs (Years Lived with Disability),Saudi Arabia,Female,40-44 years,Breast cancer,Number,2019,699.0552459983988,1254.0178807748919,357.56105686935445
+YLDs (Years Lived with Disability),Saudi Arabia,Male,45-49 years,Breast cancer,Number,2019,3.911046320235611,9.87708682141181,1.2459906922328945
+YLDs (Years Lived with Disability),Saudi Arabia,Female,45-49 years,Breast cancer,Number,2019,673.9609880995695,1142.465018134979,341.08056217138403
+YLDs (Years Lived with Disability),Saudi Arabia,Male,50-54 years,Breast cancer,Number,2019,3.175009861074424,7.443987980623797,1.1314795574092318
+YLDs (Years Lived with Disability),Saudi Arabia,Female,50-54 years,Breast cancer,Number,2019,485.7548639738356,817.9895965180052,270.97144758519244
+YLDs (Years Lived with Disability),Saudi Arabia,Male,55-59 years,Breast cancer,Number,2019,3.027297071820826,6.856301713137379,1.1209097902819765
+YLDs (Years Lived with Disability),Saudi Arabia,Female,55-59 years,Breast cancer,Number,2019,351.5548616268241,566.388890073933,198.60767952104754
+YLDs (Years Lived with Disability),Saudi Arabia,Male,60-64 years,Breast cancer,Number,2019,3.6186713914134887,8.055703108236065,1.417599090882723
+YLDs (Years Lived with Disability),Saudi Arabia,Female,60-64 years,Breast cancer,Number,2019,240.27683254206974,379.4956122115466,136.9552328788201
+YLDs (Years Lived with Disability),Saudi Arabia,Male,65-69 years,Breast cancer,Number,2019,3.8882223560167923,8.714702036261006,1.4586159886634924
+YLDs (Years Lived with Disability),Saudi Arabia,Female,65-69 years,Breast cancer,Number,2019,153.30657601943943,244.4434574368272,89.63531567598474
+YLDs (Years Lived with Disability),Saudi Arabia,Male,70-74 years,Breast cancer,Number,2019,2.756520548937956,6.108886370661148,1.010823128976577
+YLDs (Years Lived with Disability),Saudi Arabia,Female,70-74 years,Breast cancer,Number,2019,76.868526405111,116.42558732434273,47.07661319660005
+YLDs (Years Lived with Disability),Saudi Arabia,Male,75-79 years,Breast cancer,Number,2019,2.1109716173267787,4.755942676612999,0.7901252153013947
+YLDs (Years Lived with Disability),Saudi Arabia,Female,75-79 years,Breast cancer,Number,2019,42.63433429022033,65.54027852068948,26.871571381551448
+YLLs (Years of Life Lost),Saudi Arabia,Male,15-19 years,Diabetes mellitus type 2,Number,2019,93.23643205753758,156.9581887537821,49.309768517570255
+YLLs (Years of Life Lost),Saudi Arabia,Female,15-19 years,Diabetes mellitus type 2,Number,2019,166.05555015520807,276.45133066828714,92.46098184707772
+YLLs (Years of Life Lost),Saudi Arabia,Male,20-24 years,Diabetes mellitus type 2,Number,2019,188.0209653511044,351.2044876535956,88.03048758751208
+YLLs (Years of Life Lost),Saudi Arabia,Female,20-24 years,Diabetes mellitus type 2,Number,2019,420.6068119350125,704.1590031386248,233.87901547245008
+YLLs (Years of Life Lost),Saudi Arabia,Male,25-29 years,Diabetes mellitus type 2,Number,2019,506.16726836755765,912.4257875473437,237.1262857256714
+YLLs (Years of Life Lost),Saudi Arabia,Female,25-29 years,Diabetes mellitus type 2,Number,2019,568.1913949327242,942.1371025105824,313.1320426601689
+YLLs (Years of Life Lost),Saudi Arabia,Male,30-34 years,Diabetes mellitus type 2,Number,2019,1198.4841689725004,2078.243787725922,649.9621233864093
+YLLs (Years of Life Lost),Saudi Arabia,Female,30-34 years,Diabetes mellitus type 2,Number,2019,1193.3420004061782,1985.402689918799,685.0665450847752
+YLLs (Years of Life Lost),Saudi Arabia,Male,35-39 years,Diabetes mellitus type 2,Number,2019,2394.544788416673,4210.94696644796,1264.3554527411184
+YLLs (Years of Life Lost),Saudi Arabia,Female,35-39 years,Diabetes mellitus type 2,Number,2019,1539.026635990719,2362.218939028377,934.1309405465252
+YLLs (Years of Life Lost),Saudi Arabia,Male,40-44 years,Diabetes mellitus type 2,Number,2019,3921.542123439585,6308.03980951919,2251.022905147191
+YLLs (Years of Life Lost),Saudi Arabia,Female,40-44 years,Diabetes mellitus type 2,Number,2019,2678.2491169423265,4127.3009346876215,1673.3028822905999
+YLLs (Years of Life Lost),Saudi Arabia,Male,45-49 years,Diabetes mellitus type 2,Number,2019,6470.645911676372,10142.531836405664,3743.4804565026866
+YLLs (Years of Life Lost),Saudi Arabia,Female,45-49 years,Diabetes mellitus type 2,Number,2019,3722.958214139268,5665.235054036434,2340.3548648964406
+YLLs (Years of Life Lost),Saudi Arabia,Male,50-54 years,Diabetes mellitus type 2,Number,2019,7151.9001358734895,10562.114022184693,4387.56430863583
+YLLs (Years of Life Lost),Saudi Arabia,Female,50-54 years,Diabetes mellitus type 2,Number,2019,4410.455682318027,6648.012046510069,2838.662039288417
+YLLs (Years of Life Lost),Saudi Arabia,Male,55-59 years,Diabetes mellitus type 2,Number,2019,8112.986095242303,11897.127624175839,5145.589796030556
+YLLs (Years of Life Lost),Saudi Arabia,Female,55-59 years,Diabetes mellitus type 2,Number,2019,4560.798886871832,6663.572989718625,2931.767481158972
+YLLs (Years of Life Lost),Saudi Arabia,Male,60-64 years,Diabetes mellitus type 2,Number,2019,6829.8364751840245,9985.348700885004,4507.305868437551
+YLLs (Years of Life Lost),Saudi Arabia,Female,60-64 years,Diabetes mellitus type 2,Number,2019,3646.5493730223366,5501.973218810324,2362.445577675718
+YLLs (Years of Life Lost),Saudi Arabia,Male,65-69 years,Diabetes mellitus type 2,Number,2019,5538.279762440529,7798.040061223494,3697.117182440089
+YLLs (Years of Life Lost),Saudi Arabia,Female,65-69 years,Diabetes mellitus type 2,Number,2019,2732.2143953045015,4020.4005879989863,1755.875492977252
+YLLs (Years of Life Lost),Saudi Arabia,Male,70-74 years,Diabetes mellitus type 2,Number,2019,4043.9193396317087,5881.645965192116,2755.6513329388417
+YLLs (Years of Life Lost),Saudi Arabia,Female,70-74 years,Diabetes mellitus type 2,Number,2019,1708.5250199297748,2606.945506196085,1118.2949257362532
+YLLs (Years of Life Lost),Saudi Arabia,Male,75-79 years,Diabetes mellitus type 2,Number,2019,2043.4892355077325,2912.733256058448,1358.407093299531
+YLLs (Years of Life Lost),Saudi Arabia,Female,75-79 years,Diabetes mellitus type 2,Number,2019,1056.5461257906268,1640.935508885719,673.4674341641039
+YLLs (Years of Life Lost),Saudi Arabia,Male,80-84,Diabetes mellitus type 2,Number,2019,979.2645147764481,1387.2504168119979,656.3443296265098
+YLLs (Years of Life Lost),Saudi Arabia,Female,80-84,Diabetes mellitus type 2,Number,2019,665.0893884728237,1043.7246483750628,414.3217956562793
+YLLs (Years of Life Lost),Saudi Arabia,Male,85-89,Diabetes mellitus type 2,Number,2019,468.69721163295094,682.7121823755868,295.0083574301204
+YLLs (Years of Life Lost),Saudi Arabia,Female,85-89,Diabetes mellitus type 2,Number,2019,414.6039950651377,669.3329511678087,255.2214424565432
+YLLs (Years of Life Lost),Saudi Arabia,Male,90-94,Diabetes mellitus type 2,Number,2019,212.72598414063643,313.183457676083,136.88635387181134
+YLLs (Years of Life Lost),Saudi Arabia,Female,90-94,Diabetes mellitus type 2,Number,2019,239.5627390208846,385.02895002893916,146.862092652346
+YLLs (Years of Life Lost),Saudi Arabia,Male,95+ years,Diabetes mellitus type 2,Number,2019,51.99307832889684,77.77033573382808,31.782934487147177
+YLLs (Years of Life Lost),Saudi Arabia,Female,95+ years,Diabetes mellitus type 2,Number,2019,43.891169123810954,73.33843679898794,23.895126333167095
+YLLs (Years of Life Lost),Saudi Arabia,Male,95+ years,Ischemic stroke,Number,2019,331.27862196405255,450.5709925046323,202.50064756612338
+YLLs (Years of Life Lost),Saudi Arabia,Female,95+ years,Ischemic stroke,Number,2019,414.55984880751055,550.9363098701813,264.74122740346814
+YLLs (Years of Life Lost),Saudi Arabia,Male,15-19 years,Ischemic heart disease,Number,2019,1110.7946471890814,1750.4525830788061,651.0127181162783
+YLLs (Years of Life Lost),Saudi Arabia,Female,15-19 years,Ischemic heart disease,Number,2019,1023.1964070135857,1590.9427253105391,586.3628580650199
+YLLs (Years of Life Lost),Saudi Arabia,Male,20-24 years,Ischemic heart disease,Number,2019,2975.2673746433657,5057.467275192084,1674.0524492202967
+YLLs (Years of Life Lost),Saudi Arabia,Female,20-24 years,Ischemic heart disease,Number,2019,2407.749937742261,3852.0755665374404,1385.0139753062022
+YLLs (Years of Life Lost),Saudi Arabia,Male,25-29 years,Ischemic heart disease,Number,2019,6743.284404122685,11246.478978235678,3896.302021141481
+YLLs (Years of Life Lost),Saudi Arabia,Female,25-29 years,Ischemic heart disease,Number,2019,3840.278507915321,6199.292219864892,2266.277092037394
+YLLs (Years of Life Lost),Saudi Arabia,Male,30-34 years,Ischemic heart disease,Number,2019,17908.28719763511,29447.80276072361,10188.814830941163
+YLLs (Years of Life Lost),Saudi Arabia,Female,30-34 years,Ischemic heart disease,Number,2019,9879.816288533992,14547.708498829594,5895.430730060217
+YLLs (Years of Life Lost),Saudi Arabia,Male,35-39 years,Ischemic heart disease,Number,2019,36135.576245469674,57644.74527577866,21455.435527368525
+YLLs (Years of Life Lost),Saudi Arabia,Female,35-39 years,Ischemic heart disease,Number,2019,14903.372371414127,22331.213457034846,9260.53614323005
+YLLs (Years of Life Lost),Saudi Arabia,Male,40-44 years,Ischemic heart disease,Number,2019,67257.11220618829,101384.3157989487,43317.63257745442
+YLLs (Years of Life Lost),Saudi Arabia,Female,40-44 years,Ischemic heart disease,Number,2019,22769.061332054498,32691.791988172215,14832.297591183356
+YLLs (Years of Life Lost),Saudi Arabia,Male,45-49 years,Ischemic heart disease,Number,2019,89218.89487628311,126403.0985780211,59586.71161377352
+YLLs (Years of Life Lost),Saudi Arabia,Female,45-49 years,Ischemic heart disease,Number,2019,34141.071509772846,47265.53859621595,23470.709847246588
+YLLs (Years of Life Lost),Saudi Arabia,Male,50-54 years,Ischemic heart disease,Number,2019,90068.71819442975,120706.45608979803,65263.952806214875
+YLLs (Years of Life Lost),Saudi Arabia,Female,50-54 years,Ischemic heart disease,Number,2019,35244.3436266971,46781.69216665346,25354.53097791364
+YLLs (Years of Life Lost),Saudi Arabia,Male,55-59 years,Ischemic heart disease,Number,2019,88435.86541329965,114454.13357346843,66282.99966339272
+YLLs (Years of Life Lost),Saudi Arabia,Female,55-59 years,Ischemic heart disease,Number,2019,35475.255709897036,46268.12491586407,26073.846141846992
+YLLs (Years of Life Lost),Saudi Arabia,Male,60-64 years,Ischemic heart disease,Number,2019,73164.02491790136,90273.21304819605,55369.196259062985
+YLLs (Years of Life Lost),Saudi Arabia,Female,60-64 years,Ischemic heart disease,Number,2019,32865.54691277392,42896.74097761007,24852.730703501846
+YLLs (Years of Life Lost),Saudi Arabia,Male,65-69 years,Ischemic heart disease,Number,2019,56795.129669414506,67966.09958661471,45486.78594872375
+YLLs (Years of Life Lost),Saudi Arabia,Female,65-69 years,Ischemic heart disease,Number,2019,24432.2896244871,30659.81125633871,18837.09664413235
+YLLs (Years of Life Lost),Saudi Arabia,Male,70-74 years,Ischemic heart disease,Number,2019,37384.69506195292,44457.894583891546,29882.113804307486
+YLLs (Years of Life Lost),Saudi Arabia,Female,70-74 years,Ischemic heart disease,Number,2019,16353.032320748212,20854.336925340504,12676.089672186252
+YLLs (Years of Life Lost),Saudi Arabia,Male,75-79 years,Ischemic heart disease,Number,2019,20329.881302063626,24201.647086159504,16584.807338781982
+YLLs (Years of Life Lost),Saudi Arabia,Female,75-79 years,Ischemic heart disease,Number,2019,10090.973734857964,12807.027554875678,7707.724418202021
+YLLs (Years of Life Lost),Saudi Arabia,Male,80-84,Ischemic heart disease,Number,2019,10488.595683198277,12763.232813036251,8323.060609886319
+YLLs (Years of Life Lost),Saudi Arabia,Female,80-84,Ischemic heart disease,Number,2019,6896.284154285827,9012.953606367591,4988.860596550649
+YLLs (Years of Life Lost),Saudi Arabia,Male,85-89,Ischemic heart disease,Number,2019,5263.264399784624,6427.803368501376,4094.550065116228
+YLLs (Years of Life Lost),Saudi Arabia,Female,85-89,Ischemic heart disease,Number,2019,5164.432651111548,6613.754334104115,3716.8856557297067
+YLLs (Years of Life Lost),Saudi Arabia,Male,90-94,Ischemic heart disease,Number,2019,2671.224459149468,3295.628077274906,1984.1033268482195
+YLLs (Years of Life Lost),Saudi Arabia,Female,90-94,Ischemic heart disease,Number,2019,2934.2269188034797,3865.8744234422124,2049.285744228604
+YLLs (Years of Life Lost),Saudi Arabia,Male,95+ years,Ischemic heart disease,Number,2019,682.3267575387677,858.792168876771,468.53628302536833
+YLLs (Years of Life Lost),Saudi Arabia,Female,95+ years,Ischemic heart disease,Number,2019,715.8514785696901,923.2534201709814,484.78490304646533
+YLLs (Years of Life Lost),Saudi Arabia,Male,<5 years,Ischemic stroke,Number,2019,14.048248352518435,50.35791022725018,3.134275519710813
+YLLs (Years of Life Lost),Saudi Arabia,Female,<5 years,Ischemic stroke,Number,2019,10.863114834079667,30.351840101752575,3.300830371365705
+YLLs (Years of Life Lost),Saudi Arabia,Male,5-9 years,Ischemic stroke,Number,2019,14.843339775808822,32.688478495853076,4.512313046143316
+YLLs (Years of Life Lost),Saudi Arabia,Female,5-9 years,Ischemic stroke,Number,2019,10.726792216518573,23.580497980806026,3.930308560101283
+YLLs (Years of Life Lost),Saudi Arabia,Male,10-14 years,Ischemic stroke,Number,2019,38.17121368438284,82.36470296864128,13.567159561435098
+YLLs (Years of Life Lost),Saudi Arabia,Female,10-14 years,Ischemic stroke,Number,2019,34.539011093416704,74.95885109451206,13.628990326274245
+YLLs (Years of Life Lost),Saudi Arabia,Male,15-19 years,Ischemic stroke,Number,2019,206.98316793555514,369.47776718075653,98.41770115993799
+YLLs (Years of Life Lost),Saudi Arabia,Female,15-19 years,Ischemic stroke,Number,2019,367.30260018559807,639.2198099330321,180.89044214419775
+YLLs (Years of Life Lost),Saudi Arabia,Male,20-24 years,Ischemic stroke,Number,2019,463.04001445859114,856.6370166126965,212.35292002295708
+YLLs (Years of Life Lost),Saudi Arabia,Female,20-24 years,Ischemic stroke,Number,2019,767.8039458707134,1292.679847857485,401.0786418498478
+YLLs (Years of Life Lost),Saudi Arabia,Male,25-29 years,Ischemic stroke,Number,2019,1082.7931312654464,1984.78756924828,503.0940187834774
+YLLs (Years of Life Lost),Saudi Arabia,Female,25-29 years,Ischemic stroke,Number,2019,1104.13439167015,1884.325129242832,583.5868293981559
+YLLs (Years of Life Lost),Saudi Arabia,Male,30-34 years,Ischemic stroke,Number,2019,2153.606310512072,3827.2955938507575,971.6991293168446
+YLLs (Years of Life Lost),Saudi Arabia,Female,30-34 years,Ischemic stroke,Number,2019,2046.1976770615947,3525.347950135799,1048.046891966544
+YLLs (Years of Life Lost),Saudi Arabia,Male,35-39 years,Ischemic stroke,Number,2019,4298.947647565291,7684.417327540162,2133.7390212222863
+YLLs (Years of Life Lost),Saudi Arabia,Female,35-39 years,Ischemic stroke,Number,2019,3935.334981180344,6602.385222627087,2190.7145078752096
+YLLs (Years of Life Lost),Saudi Arabia,Male,40-44 years,Ischemic stroke,Number,2019,6891.689513995264,12252.32561273791,3305.2552788831654
+YLLs (Years of Life Lost),Saudi Arabia,Female,40-44 years,Ischemic stroke,Number,2019,5747.601743877083,9103.351829649442,3300.416056837662
+YLLs (Years of Life Lost),Saudi Arabia,Male,45-49 years,Ischemic stroke,Number,2019,9811.214428823096,16182.804554156579,5257.353671185615
+YLLs (Years of Life Lost),Saudi Arabia,Female,45-49 years,Ischemic stroke,Number,2019,5325.943693407918,8591.77341491155,3033.5469280389084
+YLLs (Years of Life Lost),Saudi Arabia,Male,50-54 years,Ischemic stroke,Number,2019,10683.29142899075,16902.343144555074,5842.4571317130085
+YLLs (Years of Life Lost),Saudi Arabia,Female,50-54 years,Ischemic stroke,Number,2019,6000.661103522632,9281.744061948131,3624.871616750677
+YLLs (Years of Life Lost),Saudi Arabia,Male,55-59 years,Ischemic stroke,Number,2019,10547.405699578143,16138.038894941259,5912.1104580074125
+YLLs (Years of Life Lost),Saudi Arabia,Female,55-59 years,Ischemic stroke,Number,2019,5948.200724728407,9086.045016354023,3421.177019208135
+YLLs (Years of Life Lost),Saudi Arabia,Male,60-64 years,Ischemic stroke,Number,2019,12901.402794702668,18428.08326104,7060.926693854332
+YLLs (Years of Life Lost),Saudi Arabia,Female,60-64 years,Ischemic stroke,Number,2019,7915.809842570952,11884.17338395356,4865.986632985219
+YLLs (Years of Life Lost),Saudi Arabia,Male,65-69 years,Ischemic stroke,Number,2019,11877.909746557692,16810.918849644142,6569.540892511725
+YLLs (Years of Life Lost),Saudi Arabia,Female,65-69 years,Ischemic stroke,Number,2019,6619.102197044595,9462.829735457643,4354.413351208877
+YLLs (Years of Life Lost),Saudi Arabia,Male,70-74 years,Ischemic stroke,Number,2019,10680.230941205486,14945.037591754197,6432.395602469711
+YLLs (Years of Life Lost),Saudi Arabia,Female,70-74 years,Ischemic stroke,Number,2019,5878.893675100849,8147.126999254091,3986.348616767387
+YLLs (Years of Life Lost),Saudi Arabia,Male,75-79 years,Ischemic stroke,Number,2019,7344.5208525270755,9898.630750122513,4954.456407300351
+YLLs (Years of Life Lost),Saudi Arabia,Female,75-79 years,Ischemic stroke,Number,2019,4503.199798106295,6264.668102473531,3141.351034058604
+YLLs (Years of Life Lost),Saudi Arabia,Male,80-84,Ischemic stroke,Number,2019,4663.876874891612,6178.364081829856,3047.517799610268
+YLLs (Years of Life Lost),Saudi Arabia,Female,80-84,Ischemic stroke,Number,2019,3815.6637871050048,5260.1349170857675,2613.931889718121
+YLLs (Years of Life Lost),Saudi Arabia,Male,85-89,Ischemic stroke,Number,2019,2531.0112554661628,3374.632724189939,1684.7654217653296
+YLLs (Years of Life Lost),Saudi Arabia,Female,85-89,Ischemic stroke,Number,2019,2919.471315696347,4003.980102118248,1977.3067709663121
+YLLs (Years of Life Lost),Saudi Arabia,Male,90-94,Ischemic stroke,Number,2019,1334.3412788074431,1770.1337393338988,855.0281457203297
+YLLs (Years of Life Lost),Saudi Arabia,Female,90-94,Ischemic stroke,Number,2019,1885.8644886246568,2506.027375850384,1249.6515658395165
+YLLs (Years of Life Lost),Saudi Arabia,Male,15-19 years,Breast cancer,Number,2019,11.013330585914243,13.508658054876308,8.86271812490898
+YLLs (Years of Life Lost),Saudi Arabia,Female,15-19 years,Breast cancer,Number,2019,20.211764617828866,36.95394352364343,10.014694372842595
+YLLs (Years of Life Lost),Saudi Arabia,Male,20-24 years,Breast cancer,Number,2019,13.00826065487413,17.310152984762667,10.463537876097636
+YLLs (Years of Life Lost),Saudi Arabia,Female,20-24 years,Breast cancer,Number,2019,128.51772327580036,198.88369196118884,76.98826638004951
+YLLs (Years of Life Lost),Saudi Arabia,Male,25-29 years,Breast cancer,Number,2019,14.637698228277014,20.599346612351223,11.343760626557161
+YLLs (Years of Life Lost),Saudi Arabia,Female,25-29 years,Breast cancer,Number,2019,696.2622074124118,1100.9028341998287,425.1673242578906
+YLLs (Years of Life Lost),Saudi Arabia,Male,30-34 years,Breast cancer,Number,2019,17.34406087949214,32.55548205708895,11.62759208008714
+YLLs (Years of Life Lost),Saudi Arabia,Female,30-34 years,Breast cancer,Number,2019,3240.890352983898,5060.295888147907,1989.1184082880936
+YLLs (Years of Life Lost),Saudi Arabia,Male,35-39 years,Breast cancer,Number,2019,28.567666471899237,72.22699607927844,12.146191941294866
+YLLs (Years of Life Lost),Saudi Arabia,Female,35-39 years,Breast cancer,Number,2019,6716.026827526469,10220.88814653617,4012.761706644296
+YLLs (Years of Life Lost),Saudi Arabia,Male,40-44 years,Breast cancer,Number,2019,55.90713928655827,143.7254736047905,18.834706839794467
+YLLs (Years of Life Lost),Saudi Arabia,Female,40-44 years,Breast cancer,Number,2019,9247.06624556802,14248.396517353103,5714.5187202905645
+YLLs (Years of Life Lost),Saudi Arabia,Male,45-49 years,Breast cancer,Number,2019,71.22352881511263,170.48669039063574,25.372329645491988
+YLLs (Years of Life Lost),Saudi Arabia,Female,45-49 years,Breast cancer,Number,2019,10114.134678424029,15176.125602368491,6511.2328090385945
+YLLs (Years of Life Lost),Saudi Arabia,Male,50-54 years,Breast cancer,Number,2019,59.63363280333166,135.8219697861279,23.465186598555338
+YLLs (Years of Life Lost),Saudi Arabia,Female,50-54 years,Breast cancer,Number,2019,8488.994857414515,12240.84482414497,5601.772644152902
+YLLs (Years of Life Lost),Saudi Arabia,Male,55-59 years,Breast cancer,Number,2019,57.68741858790646,121.6771530500197,22.927838389237515
+YLLs (Years of Life Lost),Saudi Arabia,Female,55-59 years,Breast cancer,Number,2019,6105.978651641498,8553.851401728714,4158.211331815797
+YLLs (Years of Life Lost),Saudi Arabia,Male,60-64 years,Breast cancer,Number,2019,57.48296763386647,113.20540067564644,23.40899475191055
+YLLs (Years of Life Lost),Saudi Arabia,Female,60-64 years,Breast cancer,Number,2019,3659.062429978021,5086.416521049578,2507.6247666880886
+YLLs (Years of Life Lost),Saudi Arabia,Male,65-69 years,Breast cancer,Number,2019,51.64117208920916,105.9136668128077,21.50302459754529
+YLLs (Years of Life Lost),Saudi Arabia,Female,65-69 years,Breast cancer,Number,2019,2041.1717279063334,2822.546169011737,1416.4240004316478
+YLLs (Years of Life Lost),Saudi Arabia,Male,70-74 years,Breast cancer,Number,2019,32.84249068038917,67.96871066585439,12.686019495773095
+YLLs (Years of Life Lost),Saudi Arabia,Female,70-74 years,Breast cancer,Number,2019,1067.1521901102985,1457.2196434328646,761.8951987051643
+YLLs (Years of Life Lost),Saudi Arabia,Male,75-79 years,Breast cancer,Number,2019,25.15496041717183,52.57262245439556,9.360481527695134
+YLLs (Years of Life Lost),Saudi Arabia,Female,75-79 years,Breast cancer,Number,2019,506.8033734517552,695.0431428384414,351.36833122243956
+YLLs (Years of Life Lost),Saudi Arabia,Male,80-84,Breast cancer,Number,2019,10.070041125377069,22.415185995019545,3.591217216509935
+YLLs (Years of Life Lost),Saudi Arabia,Female,80-84,Breast cancer,Number,2019,238.6461366185265,330.53285286807665,164.18551157316182
+YLLs (Years of Life Lost),Saudi Arabia,Male,85-89,Breast cancer,Number,2019,6.051747332353602,14.913819660270212,1.9272779137143152
+YLLs (Years of Life Lost),Saudi Arabia,Female,85-89,Breast cancer,Number,2019,122.91476248069394,177.772118838619,80.06195382466692
+YLLs (Years of Life Lost),Saudi Arabia,Male,90-94,Breast cancer,Number,2019,2.4687717378748486,5.523468385230538,0.8498672691785223
+YLLs (Years of Life Lost),Saudi Arabia,Female,90-94,Breast cancer,Number,2019,57.679584326632465,82.6412023960566,37.75036309363481
+YLLs (Years of Life Lost),Saudi Arabia,Male,95+ years,Breast cancer,Number,2019,0.380518490816601,0.8364726707320927,0.13150632139643667
+YLLs (Years of Life Lost),Saudi Arabia,Female,95+ years,Breast cancer,Number,2019,10.217862518371625,16.277965850614475,5.930845378555007
+YLLs (Years of Life Lost),Saudi Arabia,Male,5-9 years,Colon and rectum cancer,Number,2019,16.813653394274304,31.858942764463833,8.793012779309688
+YLLs (Years of Life Lost),Saudi Arabia,Female,5-9 years,Colon and rectum cancer,Number,2019,12.514647590958647,22.959532740829726,6.57979383466971
+YLLs (Years of Life Lost),Saudi Arabia,Male,10-14 years,Colon and rectum cancer,Number,2019,20.54551280750795,34.950800241343735,10.676790378728292
+YLLs (Years of Life Lost),Saudi Arabia,Female,10-14 years,Colon and rectum cancer,Number,2019,17.138628087342216,28.88215401724901,8.612520424690828
+YLLs (Years of Life Lost),Saudi Arabia,Male,15-19 years,Colon and rectum cancer,Number,2019,62.70343751963594,111.02170249999952,32.04346649431148
+YLLs (Years of Life Lost),Saudi Arabia,Female,15-19 years,Colon and rectum cancer,Number,2019,61.96525465546302,97.28947853145895,34.61726076976335
+YLLs (Years of Life Lost),Saudi Arabia,Male,20-24 years,Colon and rectum cancer,Number,2019,223.9663808240618,354.34343790665685,134.85401543344005
+YLLs (Years of Life Lost),Saudi Arabia,Female,20-24 years,Colon and rectum cancer,Number,2019,190.99288296051654,305.0262359287517,108.5940282029848
+YLLs (Years of Life Lost),Saudi Arabia,Male,25-29 years,Colon and rectum cancer,Number,2019,604.5408830489184,975.3711010225306,339.23244579516563
+YLLs (Years of Life Lost),Saudi Arabia,Female,25-29 years,Colon and rectum cancer,Number,2019,479.9374817991405,741.5283830472197,291.77150346815216
+YLLs (Years of Life Lost),Saudi Arabia,Male,30-34 years,Colon and rectum cancer,Number,2019,1644.2348794684203,2702.7378224182607,934.1347350897454
+YLLs (Years of Life Lost),Saudi Arabia,Female,30-34 years,Colon and rectum cancer,Number,2019,1131.6036601684082,1825.8289435295505,662.0989805371647
+YLLs (Years of Life Lost),Saudi Arabia,Male,35-39 years,Colon and rectum cancer,Number,2019,2811.6473910947434,5112.902002779109,1547.761871571585
+YLLs (Years of Life Lost),Saudi Arabia,Female,35-39 years,Colon and rectum cancer,Number,2019,1848.4719554424776,2890.4775194438444,1151.017770140208
+YLLs (Years of Life Lost),Saudi Arabia,Male,40-44 years,Colon and rectum cancer,Number,2019,3891.911379225082,6390.273090808147,2228.899093431811
+YLLs (Years of Life Lost),Saudi Arabia,Female,40-44 years,Colon and rectum cancer,Number,2019,2847.439468184915,4410.327846997108,1718.4988199270585
+YLLs (Years of Life Lost),Saudi Arabia,Male,45-49 years,Colon and rectum cancer,Number,2019,4172.981182627732,6683.299703187518,2474.9688685183505
+YLLs (Years of Life Lost),Saudi Arabia,Female,45-49 years,Colon and rectum cancer,Number,2019,3617.828741401882,5416.66884352018,2210.864125760534
+YLLs (Years of Life Lost),Saudi Arabia,Male,50-54 years,Colon and rectum cancer,Number,2019,3878.3530682241926,5903.437871421205,2368.2052816176233
+YLLs (Years of Life Lost),Saudi Arabia,Female,50-54 years,Colon and rectum cancer,Number,2019,3625.319779900187,5399.666760857315,2268.819128769855
+YLLs (Years of Life Lost),Saudi Arabia,Male,55-59 years,Colon and rectum cancer,Number,2019,3567.549605555462,5298.564416310165,2318.0653137344207
+YLLs (Years of Life Lost),Saudi Arabia,Female,55-59 years,Colon and rectum cancer,Number,2019,2789.927307009907,4140.719646211195,1754.2127835014517
+YLLs (Years of Life Lost),Saudi Arabia,Male,60-64 years,Colon and rectum cancer,Number,2019,3108.867472568884,4580.421226084269,2009.5749586797112
+YLLs (Years of Life Lost),Saudi Arabia,Female,60-64 years,Colon and rectum cancer,Number,2019,2093.2764486638107,2969.1740726723374,1376.2740143614988
+YLLs (Years of Life Lost),Saudi Arabia,Male,65-69 years,Colon and rectum cancer,Number,2019,2503.25134448848,3570.5378807335164,1692.0335233040082
+YLLs (Years of Life Lost),Saudi Arabia,Female,65-69 years,Colon and rectum cancer,Number,2019,1409.6344277835708,2004.130676659904,919.2630012927875
+YLLs (Years of Life Lost),Saudi Arabia,Male,70-74 years,Colon and rectum cancer,Number,2019,1825.4098842137043,2615.625021933726,1233.1250618130255
+YLLs (Years of Life Lost),Saudi Arabia,Female,70-74 years,Colon and rectum cancer,Number,2019,927.4968631554603,1314.3354603628848,630.4394992052975
+YLLs (Years of Life Lost),Saudi Arabia,Male,75-79 years,Colon and rectum cancer,Number,2019,949.4101074331344,1320.5461147373253,653.9361915202838
+YLLs (Years of Life Lost),Saudi Arabia,Female,75-79 years,Colon and rectum cancer,Number,2019,559.9459775419041,769.8016349938852,387.86131575808173
+YLLs (Years of Life Lost),Saudi Arabia,Male,80-84,Colon and rectum cancer,Number,2019,424.07985247729863,617.034597740491,281.23273601425984
+YLLs (Years of Life Lost),Saudi Arabia,Female,80-84,Colon and rectum cancer,Number,2019,343.99548903509856,484.56406838402773,234.029481186459
+YLLs (Years of Life Lost),Saudi Arabia,Male,85-89,Colon and rectum cancer,Number,2019,183.43401128352883,267.213189309128,120.78032071525328
+YLLs (Years of Life Lost),Saudi Arabia,Female,85-89,Colon and rectum cancer,Number,2019,195.64925306868085,285.9811788767218,129.74544667384623
+YLLs (Years of Life Lost),Saudi Arabia,Male,90-94,Colon and rectum cancer,Number,2019,68.24885513257485,100.72936012815411,43.40849772335075
+YLLs (Years of Life Lost),Saudi Arabia,Female,90-94,Colon and rectum cancer,Number,2019,83.55196699015451,123.85301212878709,51.35058683857283
+YLLs (Years of Life Lost),Saudi Arabia,Male,95+ years,Colon and rectum cancer,Number,2019,15.278399233283293,23.51094969978165,8.954552848674755
+YLLs (Years of Life Lost),Saudi Arabia,Female,95+ years,Colon and rectum cancer,Number,2019,15.521835238550437,24.94050589289276,9.04822351243327
+Prevalence,Saudi Arabia,Male,<5 years,Ischemic stroke,Number,2019,395.14552759965693,522.8223653593656,299.1119581509744
+Prevalence,Saudi Arabia,Female,<5 years,Ischemic stroke,Number,2019,467.8563850931424,638.7177408937247,348.17239791316973
+Prevalence,Saudi Arabia,Male,5-9 years,Ischemic stroke,Number,2019,1131.6305994089053,1519.1698233196082,836.4946479116403
+Prevalence,Saudi Arabia,Female,5-9 years,Ischemic stroke,Number,2019,1423.5532142456525,1981.1925271846999,1034.061721813206
+Prevalence,Saudi Arabia,Male,80-84,Diabetes mellitus type 2,Number,2019,15629.518373266721,17339.34242839162,14041.661737201754
+Prevalence,Saudi Arabia,Female,80-84,Diabetes mellitus type 2,Number,2019,11225.245430927931,12511.379573138141,10055.47717361666
+Prevalence,Saudi Arabia,Male,85-89,Diabetes mellitus type 2,Number,2019,6558.292624221331,7294.114009695602,5890.909928182545
+Prevalence,Saudi Arabia,Female,85-89,Diabetes mellitus type 2,Number,2019,6389.841423831746,7129.457358291882,5734.844105809802
+Prevalence,Saudi Arabia,Male,90-94,Diabetes mellitus type 2,Number,2019,2855.181066785032,3193.515660053545,2536.722251917155
+Prevalence,Saudi Arabia,Female,90-94,Diabetes mellitus type 2,Number,2019,3053.175199191468,3435.350865634009,2723.7912125445173
+Prevalence,Saudi Arabia,Male,95+ years,Diabetes mellitus type 2,Number,2019,605.1319619025145,681.1570709978727,536.0519164341403
+Prevalence,Saudi Arabia,Female,95+ years,Diabetes mellitus type 2,Number,2019,556.3550759951472,633.0320636637257,490.06013330221424
+Prevalence,Saudi Arabia,Male,80-84,Colon and rectum cancer,Number,2019,122.69433422086408,170.69286400828568,86.17548181828246
+Prevalence,Saudi Arabia,Female,80-84,Colon and rectum cancer,Number,2019,80.0070105914326,111.43945467072102,55.892759303961256
+Prevalence,Saudi Arabia,Male,85-89,Colon and rectum cancer,Number,2019,43.22635233696581,59.609641602524164,30.67196089254556
+Prevalence,Saudi Arabia,Female,85-89,Colon and rectum cancer,Number,2019,39.12680447451839,54.516640537259775,27.775242214300082
+Prevalence,Saudi Arabia,Male,90-94,Colon and rectum cancer,Number,2019,12.51852351958009,16.387817973726975,9.458048132416932
+Prevalence,Saudi Arabia,Female,90-94,Colon and rectum cancer,Number,2019,13.271439663113808,17.890329196873175,9.651808123790925
+Prevalence,Saudi Arabia,Male,95+ years,Colon and rectum cancer,Number,2019,2.3274431070512454,2.9488248804326167,1.80192420091974
+Prevalence,Saudi Arabia,Female,95+ years,Colon and rectum cancer,Number,2019,2.1309877880282038,2.7865954869883582,1.6315019034876372
+Prevalence,Saudi Arabia,Male,95+ years,Ischemic heart disease,Number,2019,1151.7911606714633,1289.9107986735514,1025.7957570463911
+Prevalence,Saudi Arabia,Female,95+ years,Ischemic heart disease,Number,2019,944.3898205811963,1052.8702721614613,837.9525508806273
+Prevalence,Saudi Arabia,Male,95+ years,Breast cancer,Number,2019,0.39318445779993366,0.5349880424804835,0.27542754603550657
+Prevalence,Saudi Arabia,Female,95+ years,Breast cancer,Number,2019,13.632468781135712,17.463148405280954,10.868955522133648
+Prevalence,Saudi Arabia,Male,<5 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,<5 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,5-9 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,5-9 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,10-14 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,10-14 years,Diabetes mellitus type 2,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,15-19 years,Diabetes mellitus type 2,Number,2019,3911.2243120557478,7099.735153628985,769.7215049804709
+Prevalence,Saudi Arabia,Female,15-19 years,Diabetes mellitus type 2,Number,2019,2879.4127820109034,5508.887548300001,472.97495734869284
+Prevalence,Saudi Arabia,Male,20-24 years,Diabetes mellitus type 2,Number,2019,22030.643826179203,30820.211244271977,15144.546294378959
+Prevalence,Saudi Arabia,Female,20-24 years,Diabetes mellitus type 2,Number,2019,15401.581774019323,21708.864009765977,10466.207142116298
+Prevalence,Saudi Arabia,Male,25-29 years,Diabetes mellitus type 2,Number,2019,60530.695060083075,80632.23772256706,44743.714470177365
+Prevalence,Saudi Arabia,Female,25-29 years,Diabetes mellitus type 2,Number,2019,41132.41524975486,55515.851532611596,29750.18565766389
+Prevalence,Saudi Arabia,Male,30-34 years,Diabetes mellitus type 2,Number,2019,113864.13558807879,143720.73667755115,88599.48662793307
+Prevalence,Saudi Arabia,Female,30-34 years,Diabetes mellitus type 2,Number,2019,72652.51266340337,91762.7372797429,56955.13032197324
+Prevalence,Saudi Arabia,Male,35-39 years,Diabetes mellitus type 2,Number,2019,167020.1280637759,202762.34460160864,133150.9178531887
+Prevalence,Saudi Arabia,Female,35-39 years,Diabetes mellitus type 2,Number,2019,99468.16031626856,121730.89422111804,80291.4073347638
+Prevalence,Saudi Arabia,Male,40-44 years,Diabetes mellitus type 2,Number,2019,201147.92324365376,242123.50719929405,163868.61266350318
+Prevalence,Saudi Arabia,Female,40-44 years,Diabetes mellitus type 2,Number,2019,116404.46455631967,139888.83725819425,94883.33214765295
+Prevalence,Saudi Arabia,Male,45-49 years,Diabetes mellitus type 2,Number,2019,215266.52343847256,253186.62361292614,181195.20040862347
+Prevalence,Saudi Arabia,Female,45-49 years,Diabetes mellitus type 2,Number,2019,126816.64680139608,148879.8293612425,107879.88495002595
+Prevalence,Saudi Arabia,Male,50-54 years,Diabetes mellitus type 2,Number,2019,198073.44944712793,234963.8784403352,167548.56936776612
+Prevalence,Saudi Arabia,Female,50-54 years,Diabetes mellitus type 2,Number,2019,122803.52767726521,145887.272333809,103884.31489346112
+Prevalence,Saudi Arabia,Male,55-59 years,Diabetes mellitus type 2,Number,2019,180196.45591758477,208080.1784347002,156705.36541478752
+Prevalence,Saudi Arabia,Female,55-59 years,Diabetes mellitus type 2,Number,2019,110891.14933235385,129344.80402346751,96081.33801213588
+Prevalence,Saudi Arabia,Male,60-64 years,Diabetes mellitus type 2,Number,2019,146700.1965180025,167130.28637482773,127234.98675280593
+Prevalence,Saudi Arabia,Female,60-64 years,Diabetes mellitus type 2,Number,2019,89618.20994969911,103704.79609684362,77653.19048845305
+Prevalence,Saudi Arabia,Male,65-69 years,Diabetes mellitus type 2,Number,2019,108401.512777545,121971.40439780807,95285.7550464292
+Prevalence,Saudi Arabia,Female,65-69 years,Diabetes mellitus type 2,Number,2019,62089.59562197677,70820.91906833572,54531.816065823434
+Prevalence,Saudi Arabia,Male,70-74 years,Diabetes mellitus type 2,Number,2019,70117.70316223925,78282.23310070054,62639.253214938086
+Prevalence,Saudi Arabia,Female,70-74 years,Diabetes mellitus type 2,Number,2019,37418.35931463367,42217.17249086874,33247.25026340946
+Prevalence,Saudi Arabia,Male,75-79 years,Diabetes mellitus type 2,Number,2019,35011.91525115972,39037.29366082919,31344.295149681217
+Prevalence,Saudi Arabia,Female,75-79 years,Diabetes mellitus type 2,Number,2019,19633.631784183464,22003.372790580102,17495.33168901153
+Prevalence,Saudi Arabia,Male,<5 years,Breast cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,<5 years,Breast cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,5-9 years,Breast cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,5-9 years,Breast cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,10-14 years,Breast cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,10-14 years,Breast cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,15-19 years,Breast cancer,Number,2019,6.64647154379058,10.58667057164862,4.159740763642305
+Prevalence,Saudi Arabia,Female,15-19 years,Breast cancer,Number,2019,23.351538834724103,42.74239879464151,11.440260322950374
+Prevalence,Saudi Arabia,Male,20-24 years,Breast cancer,Number,2019,8.557990679527643,13.408898789473792,5.2213596058224985
+Prevalence,Saudi Arabia,Female,20-24 years,Breast cancer,Number,2019,143.5038314352566,232.86970371730675,83.93384072309578
+Prevalence,Saudi Arabia,Male,25-29 years,Breast cancer,Number,2019,10.750925395316244,16.902893047600173,6.428931252135089
+Prevalence,Saudi Arabia,Female,25-29 years,Breast cancer,Number,2019,755.7351525478797,1228.9937836091922,441.4977654743907
+Prevalence,Saudi Arabia,Male,30-34 years,Breast cancer,Number,2019,12.410046209203525,21.706853471479448,6.951579597773567
+Prevalence,Saudi Arabia,Female,30-34 years,Breast cancer,Number,2019,3034.0236475743277,4854.344933599446,1780.0498439559476
+Prevalence,Saudi Arabia,Male,<5 years,Colon and rectum cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,<5 years,Colon and rectum cancer,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,5-9 years,Colon and rectum cancer,Number,2019,4.885048167730755,9.58168155758612,2.4705506810676097
+Prevalence,Saudi Arabia,Female,5-9 years,Colon and rectum cancer,Number,2019,1.8841782373316538,3.5128873940933323,0.9611702506993531
+Prevalence,Saudi Arabia,Male,10-14 years,Colon and rectum cancer,Number,2019,5.635704070244241,9.92278913830464,2.8123571485859644
+Prevalence,Saudi Arabia,Female,10-14 years,Colon and rectum cancer,Number,2019,2.374053628007643,4.096276121394423,1.1653978734540755
+Prevalence,Saudi Arabia,Male,15-19 years,Colon and rectum cancer,Number,2019,24.047857773912323,43.7444365815844,12.138863681011452
+Prevalence,Saudi Arabia,Female,15-19 years,Colon and rectum cancer,Number,2019,12.736004924054539,20.635951280387797,7.30564674607373
+Prevalence,Saudi Arabia,Male,20-24 years,Colon and rectum cancer,Number,2019,81.66786262118072,131.01687164844137,47.882072902728474
+Prevalence,Saudi Arabia,Female,20-24 years,Colon and rectum cancer,Number,2019,38.07005210327578,62.29923316987956,22.055203850928194
+Prevalence,Saudi Arabia,Male,25-29 years,Colon and rectum cancer,Number,2019,210.3528473981926,346.3528220989196,117.92607179783802
+Prevalence,Saudi Arabia,Female,25-29 years,Colon and rectum cancer,Number,2019,93.20832460668042,147.87385694814435,57.682377740826446
+Prevalence,Saudi Arabia,Male,30-34 years,Colon and rectum cancer,Number,2019,534.4506645747804,888.6307766607817,303.8982264851166
+Prevalence,Saudi Arabia,Female,30-34 years,Colon and rectum cancer,Number,2019,199.3600699809132,318.656246216824,117.95447308140885
+Prevalence,Saudi Arabia,Male,35-39 years,Colon and rectum cancer,Number,2019,1021.5531073218824,1852.1840611998846,542.4573084148357
+Prevalence,Saudi Arabia,Female,35-39 years,Colon and rectum cancer,Number,2019,354.07860179945175,547.7939499915029,223.06328326909346
+Prevalence,Saudi Arabia,Male,40-44 years,Colon and rectum cancer,Number,2019,1453.0194340853973,2401.7264910623485,810.3753586203926
+Prevalence,Saudi Arabia,Female,40-44 years,Colon and rectum cancer,Number,2019,550.7806013278498,874.9639506281305,337.43581898646033
+Prevalence,Saudi Arabia,Male,45-49 years,Colon and rectum cancer,Number,2019,1591.534705468236,2567.4023488560497,933.4592107576098
+Prevalence,Saudi Arabia,Female,45-49 years,Colon and rectum cancer,Number,2019,728.5152120989475,1083.5905517581782,458.840191031562
+Prevalence,Saudi Arabia,Male,50-54 years,Colon and rectum cancer,Number,2019,1623.800897925824,2535.095136998532,949.1606100760304
+Prevalence,Saudi Arabia,Female,50-54 years,Colon and rectum cancer,Number,2019,811.3446702062341,1224.2951448335507,501.3796137288619
+Prevalence,Saudi Arabia,Male,55-59 years,Colon and rectum cancer,Number,2019,1714.6897936121343,2646.674539719069,1100.447828703344
+Prevalence,Saudi Arabia,Female,55-59 years,Colon and rectum cancer,Number,2019,670.8126416577252,1011.0572252798232,415.6316196514859
+Prevalence,Saudi Arabia,Male,60-64 years,Colon and rectum cancer,Number,2019,1536.9199829798845,2298.953319040631,972.216045858907
+Prevalence,Saudi Arabia,Female,60-64 years,Colon and rectum cancer,Number,2019,522.5128477294272,755.0174291923902,351.1267151033804
+Prevalence,Saudi Arabia,Male,65-69 years,Colon and rectum cancer,Number,2019,1190.4234786010638,1705.217777234102,781.7128511250644
+Prevalence,Saudi Arabia,Female,65-69 years,Colon and rectum cancer,Number,2019,373.64888417250677,539.0053124588941,245.69156499838704
+Prevalence,Saudi Arabia,Male,70-74 years,Colon and rectum cancer,Number,2019,621.6314985066247,885.2669832951225,419.6734217254415
+Prevalence,Saudi Arabia,Female,70-74 years,Colon and rectum cancer,Number,2019,249.31347117704138,353.73642784755685,171.79565386893518
+Prevalence,Saudi Arabia,Male,75-79 years,Colon and rectum cancer,Number,2019,309.6439584923875,436.11572999731766,214.3613820898739
+Prevalence,Saudi Arabia,Female,75-79 years,Colon and rectum cancer,Number,2019,143.63500942415374,194.68892170400625,101.2692811956924
+Prevalence,Saudi Arabia,Male,40-44 years,Ischemic heart disease,Number,2019,37939.930923574204,44819.652446004504,32391.449776973546
+Prevalence,Saudi Arabia,Female,40-44 years,Ischemic heart disease,Number,2019,13784.682360712291,16208.800126155404,11812.029195656716
+Prevalence,Saudi Arabia,Male,45-49 years,Ischemic heart disease,Number,2019,55520.65141393486,63355.78062571416,48297.6523445409
+Prevalence,Saudi Arabia,Female,45-49 years,Ischemic heart disease,Number,2019,19878.439712991483,22581.003694893738,17390.417760704084
+Prevalence,Saudi Arabia,Male,50-54 years,Ischemic heart disease,Number,2019,67593.14562899327,77368.40089794922,59095.13517744494
+Prevalence,Saudi Arabia,Female,50-54 years,Ischemic heart disease,Number,2019,25516.09578454291,29086.311785829923,22230.740292866594
+Prevalence,Saudi Arabia,Male,55-59 years,Ischemic heart disease,Number,2019,81848.02810775163,91855.43734664159,73102.66710303174
+Prevalence,Saudi Arabia,Female,55-59 years,Ischemic heart disease,Number,2019,31167.969010677538,35033.63990906181,27674.83367362645
+Prevalence,Saudi Arabia,Male,60-64 years,Ischemic heart disease,Number,2019,84932.1169990485,95750.79356376348,75626.76893527406
+Prevalence,Saudi Arabia,Female,60-64 years,Ischemic heart disease,Number,2019,33423.16368560751,37982.641051224164,29474.24400379125
+Prevalence,Saudi Arabia,Male,65-69 years,Ischemic heart disease,Number,2019,83281.0248702979,91968.92490990035,75232.4939615338
+Prevalence,Saudi Arabia,Female,65-69 years,Ischemic heart disease,Number,2019,33084.80451358378,37174.0067170054,29603.762152484458
+Prevalence,Saudi Arabia,Male,70-74 years,Ischemic heart disease,Number,2019,64620.632415466,71235.46443244988,58304.42770220284
+Prevalence,Saudi Arabia,Female,70-74 years,Ischemic heart disease,Number,2019,25680.668338775322,28471.270130533245,23059.58249361945
+Prevalence,Saudi Arabia,Male,75-79 years,Ischemic heart disease,Number,2019,39241.99413902725,42985.7258971413,35695.65659506821
+Prevalence,Saudi Arabia,Female,75-79 years,Ischemic heart disease,Number,2019,17402.936483340032,19129.631371665157,15750.81948071657
+Prevalence,Saudi Arabia,Male,80-84,Ischemic heart disease,Number,2019,20755.863640168183,22757.223983115215,18881.658318875634
+Prevalence,Saudi Arabia,Female,80-84,Ischemic heart disease,Number,2019,12268.197726434086,13610.714092606322,11120.322634169412
+Prevalence,Saudi Arabia,Male,85-89,Ischemic heart disease,Number,2019,9948.826564888559,10906.711832645984,9087.126083172418
+Prevalence,Saudi Arabia,Female,85-89,Ischemic heart disease,Number,2019,8164.070202800646,9007.002621709977,7439.984869699172
+Prevalence,Saudi Arabia,Male,90-94,Ischemic heart disease,Number,2019,4844.546395726022,5350.50527988329,4368.3526547991705
+Prevalence,Saudi Arabia,Female,90-94,Ischemic heart disease,Number,2019,4467.305675329461,4929.065967220322,4013.289124318167
+Prevalence,Saudi Arabia,Male,95+ years,Ischemic stroke,Number,2019,61.91449582295722,86.78585863593456,42.35170550586851
+Prevalence,Saudi Arabia,Female,95+ years,Ischemic stroke,Number,2019,110.45481821829927,155.4076099088423,77.06655031956713
+Prevalence,Saudi Arabia,Male,35-39 years,Breast cancer,Number,2019,18.546648132199813,39.69969533082565,8.476750037988497
+Prevalence,Saudi Arabia,Female,35-39 years,Breast cancer,Number,2019,5805.691330476524,9157.00621081771,3439.5744315364527
+Prevalence,Saudi Arabia,Male,40-44 years,Breast cancer,Number,2019,36.52750037293184,90.51841805624832,13.65905248953677
+Prevalence,Saudi Arabia,Female,40-44 years,Breast cancer,Number,2019,9013.348841366515,13813.763170107473,5293.709747275844
+Prevalence,Saudi Arabia,Male,45-49 years,Breast cancer,Number,2019,45.183768583308456,111.35007716338625,17.76387295162209
+Prevalence,Saudi Arabia,Female,45-49 years,Breast cancer,Number,2019,8852.915777695698,13164.400955409994,5585.627569789022
+Prevalence,Saudi Arabia,Male,50-54 years,Breast cancer,Number,2019,36.253999910428014,77.16203286339886,16.379019891028697
+Prevalence,Saudi Arabia,Female,50-54 years,Breast cancer,Number,2019,6515.202195054915,9574.945153711384,4280.862371622061
+Prevalence,Saudi Arabia,Male,55-59 years,Breast cancer,Number,2019,36.95575741029411,76.92720969034117,16.324222555739702
+Prevalence,Saudi Arabia,Female,55-59 years,Breast cancer,Number,2019,4830.5095771670185,6806.82680595314,3422.7240478547706
+Prevalence,Saudi Arabia,Male,60-64 years,Breast cancer,Number,2019,41.710013284566884,85.67459621350679,18.95056003649543
+Prevalence,Saudi Arabia,Female,60-64 years,Breast cancer,Number,2019,3443.044187047195,4703.629277728936,2546.2667498115948
+Prevalence,Saudi Arabia,Male,65-69 years,Breast cancer,Number,2019,42.80669720241429,86.53116234923101,20.050985902106735
+Prevalence,Saudi Arabia,Female,65-69 years,Breast cancer,Number,2019,2244.3024785843836,2963.4010944894258,1670.952477488532
+Prevalence,Saudi Arabia,Male,70-74 years,Breast cancer,Number,2019,29.67258418856923,58.2264702304995,14.544409798669708
+Prevalence,Saudi Arabia,Female,70-74 years,Breast cancer,Number,2019,1151.9792429484348,1468.155732413227,900.6254961772673
+Prevalence,Saudi Arabia,Male,75-79 years,Breast cancer,Number,2019,20.998082090900578,40.785256576829006,10.303342806376612
+Prevalence,Saudi Arabia,Female,75-79 years,Breast cancer,Number,2019,636.6865258548186,809.7625287407388,491.2024864231942
+Prevalence,Saudi Arabia,Male,80-84,Breast cancer,Number,2019,10.037228058094417,20.056850453803495,5.079999369904056
+Prevalence,Saudi Arabia,Female,80-84,Breast cancer,Number,2019,394.0504798377309,494.22868738944885,314.03967216074847
+Prevalence,Saudi Arabia,Male,85-89,Breast cancer,Number,2019,4.824913126673423,8.927715374914198,2.6912092912347183
+Prevalence,Saudi Arabia,Female,85-89,Breast cancer,Number,2019,187.8842410619929,235.07240233319547,149.8101031672463
+Prevalence,Saudi Arabia,Male,90-94,Breast cancer,Number,2019,1.7440547369294515,2.5606425963548625,1.1940323254824483
+Prevalence,Saudi Arabia,Female,90-94,Breast cancer,Number,2019,74.28074256611242,92.18531203391089,60.27171871339183
+Prevalence,Saudi Arabia,Male,<5 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,<5 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,5-9 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,5-9 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,10-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Female,10-14 years,Ischemic heart disease,Number,2019,0.0,0.0,0.0
+Prevalence,Saudi Arabia,Male,15-19 years,Ischemic heart disease,Number,2019,393.78166618332057,528.5735316055651,278.0501012296558
+Prevalence,Saudi Arabia,Female,15-19 years,Ischemic heart disease,Number,2019,264.0953009735762,353.8477847362176,183.43791249659353
+Prevalence,Saudi Arabia,Male,20-24 years,Ischemic heart disease,Number,2019,1224.4121804521492,1504.466780235607,967.2691506217487
+Prevalence,Saudi Arabia,Female,20-24 years,Ischemic heart disease,Number,2019,731.3400201118313,915.9513627497391,552.2273304136799
+Prevalence,Saudi Arabia,Male,25-29 years,Ischemic heart disease,Number,2019,4362.189338278715,5108.157000944873,3642.8866137952937
+Prevalence,Saudi Arabia,Female,25-29 years,Ischemic heart disease,Number,2019,2268.7683926325944,2657.1884465361086,1896.7971228964711
+Prevalence,Saudi Arabia,Male,30-34 years,Ischemic heart disease,Number,2019,11481.639587941389,13453.264539285325,9668.349714009559
+Prevalence,Saudi Arabia,Female,30-34 years,Ischemic heart disease,Number,2019,5225.913556592716,6121.104061215962,4374.700358409452
+Prevalence,Saudi Arabia,Male,35-39 years,Ischemic heart disease,Number,2019,22759.133617419393,27124.486201891636,19354.251319978324
+Prevalence,Saudi Arabia,Female,35-39 years,Ischemic heart disease,Number,2019,9076.370808214464,10609.780494672961,7753.447160447132
+Prevalence,Saudi Arabia,Male,10-14 years,Ischemic stroke,Number,2019,1740.7688110464915,2228.828475093723,1302.2184834559214
+Prevalence,Saudi Arabia,Female,10-14 years,Ischemic stroke,Number,2019,2176.160684220978,2897.260288079871,1622.3613957219595
+Prevalence,Saudi Arabia,Male,15-19 years,Ischemic stroke,Number,2019,2534.899976119092,3149.308944659473,1930.59789288116
+Prevalence,Saudi Arabia,Female,15-19 years,Ischemic stroke,Number,2019,3016.510721879736,3897.7111701355543,2282.2690825521245
+Prevalence,Saudi Arabia,Male,20-24 years,Ischemic stroke,Number,2019,3893.1497093526964,4768.46508748017,3035.1018826881987
+Prevalence,Saudi Arabia,Female,20-24 years,Ischemic stroke,Number,2019,4586.31763388342,5668.750232466251,3574.201616872257
+Prevalence,Saudi Arabia,Male,25-29 years,Ischemic stroke,Number,2019,5866.133165123416,7080.676642905781,4716.0465618581
+Prevalence,Saudi Arabia,Female,25-29 years,Ischemic stroke,Number,2019,6741.580334286485,8160.494110628156,5403.323555604083
+Prevalence,Saudi Arabia,Male,30-34 years,Ischemic stroke,Number,2019,9056.457032653165,10948.463564781066,7414.924242238407
+Prevalence,Saudi Arabia,Female,30-34 years,Ischemic stroke,Number,2019,9638.86879705689,11993.650525657156,7882.301576235377
+Prevalence,Saudi Arabia,Male,35-39 years,Ischemic stroke,Number,2019,12822.517984607995,15306.598925182505,10812.322371307542
+Prevalence,Saudi Arabia,Female,35-39 years,Ischemic stroke,Number,2019,12389.72074886886,15149.560656944457,10462.5077029314
+Prevalence,Saudi Arabia,Male,40-44 years,Ischemic stroke,Number,2019,15817.122325310116,18610.093689696612,13413.189703300988
+Prevalence,Saudi Arabia,Female,40-44 years,Ischemic stroke,Number,2019,14402.355871721129,17180.083576574747,12252.835924654195
+Prevalence,Saudi Arabia,Male,45-49 years,Ischemic stroke,Number,2019,17400.657162977124,20180.44848592463,14948.483396797537
+Prevalence,Saudi Arabia,Female,45-49 years,Ischemic stroke,Number,2019,15743.788968995128,18516.21843410293,13616.73207181344
+Prevalence,Saudi Arabia,Male,50-54 years,Ischemic stroke,Number,2019,17190.07828492015,20354.000818413777,14611.18907213155
+Prevalence,Saudi Arabia,Female,50-54 years,Ischemic stroke,Number,2019,15958.253432000925,18777.789612014545,13606.41299101133
+Prevalence,Saudi Arabia,Male,55-59 years,Ischemic stroke,Number,2019,18541.751008783063,21467.05040173048,16143.701859893254
+Prevalence,Saudi Arabia,Female,55-59 years,Ischemic stroke,Number,2019,16494.549314975728,19074.849781968816,14330.363957265574
+Prevalence,Saudi Arabia,Male,60-64 years,Ischemic stroke,Number,2019,18366.07112546503,21385.492075321225,15991.227267714099
+Prevalence,Saudi Arabia,Female,60-64 years,Ischemic stroke,Number,2019,15778.091041768786,18496.69283166366,13612.961853880443
+Prevalence,Saudi Arabia,Male,65-69 years,Ischemic stroke,Number,2019,16821.857925177417,19137.19669735185,14812.452896614961
+Prevalence,Saudi Arabia,Female,65-69 years,Ischemic stroke,Number,2019,13279.742408477547,15453.104295799798,11530.945281597502
+Prevalence,Saudi Arabia,Male,70-74 years,Ischemic stroke,Number,2019,13074.377156748978,15110.6383978803,11166.47159754907
+Prevalence,Saudi Arabia,Female,70-74 years,Ischemic stroke,Number,2019,9614.080816028163,11589.090422157979,8182.23296770188
+Prevalence,Saudi Arabia,Male,75-79 years,Ischemic stroke,Number,2019,7340.113591771714,8501.29979699534,6192.597057491451
+Prevalence,Saudi Arabia,Female,75-79 years,Ischemic stroke,Number,2019,5922.3116740811165,7257.916852128294,4995.084727412604
+Prevalence,Saudi Arabia,Male,80-84,Ischemic stroke,Number,2019,3359.4105594147177,4007.6260583446597,2749.0507183633945
+Prevalence,Saudi Arabia,Female,80-84,Ischemic stroke,Number,2019,3733.433937574341,4568.4418720487165,3112.782859720901
+Prevalence,Saudi Arabia,Male,85-89,Ischemic stroke,Number,2019,1165.408419804218,1453.144001456948,888.4329799570522
+Prevalence,Saudi Arabia,Female,85-89,Ischemic stroke,Number,2019,1942.2429791277516,2496.104812067958,1550.248858478002
+Prevalence,Saudi Arabia,Male,90-94,Ischemic stroke,Number,2019,374.60113592862047,490.4542451448067,267.23962720748216
+Prevalence,Saudi Arabia,Female,90-94,Ischemic stroke,Number,2019,747.8969823439301,1007.0482201363442,555.9574067763414
