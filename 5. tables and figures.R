@@ -192,6 +192,26 @@ tab3<-left_join(DA, DALYS)%>%
 
 write.csv(tab3, "Table1_byage.csv", row.names = F)
 
+
+#IHD in males benefit
+left_join(YLLs, YLDs)%>%
+  filter(year>=2023, year<=2040, age>=25, sex=="Male", cause=="Ischemic heart disease")%>%
+  mutate(age.group = ifelse(age<40, "Under 40", 
+                            ifelse(age>=40 & age<70, "40-69", "70+")))%>%
+  mutate(daly = yll + yld)%>%
+  group_by(scenario)%>%
+  summarise(dalys = sum(daly))%>%
+  spread(scenario, dalys)%>%
+  mutate(Ideal = Baseline - Ideal,
+         Intervention = Baseline - Intervention)%>%
+  select(-Baseline)%>%
+  gather(Scenario, Dalys.averted)%>%
+  mutate(benefit = 20110.32*2.3*Dalys.averted/1e9)
+
+###
+
+
+
 #plots
 plot1<-df%>%filter(year>=2023, year<=2040, age>=25)%>%
   group_by(year, scenario)%>%
@@ -274,6 +294,19 @@ ggplot(plot4, aes(x=year, y=daly.averted, color=scenario))+
 
 ggsave("dalys_averted_bycause.jpeg", width = 8, height=5)
 
+
+#Ischemic heart disease
+plot2%>%group_by(cause, scenario)%>%summarise(deaths.averted = sum(death.averted))
+plot2%>%group_by(scenario)%>%summarise(deaths.averted = sum(death.averted))
+
+87007/113133
+62641/80421
+
+plot4%>%group_by(cause, scenario)%>%summarise(daly.averted = sum(daly.averted))
+plot4%>%group_by(scenario)%>%summarise(daly.averted = sum(daly.averted))
+
+2076857/2856174
+1492738/1999191
 
 #cumulative deaths and dalys averted by cause
 

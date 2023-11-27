@@ -44,7 +44,8 @@ df<-left_join(prop, targets)%>%
 write.csv(df, "PIFs.csv", row.names = F)  
 
 #plot PIFS (instead of PAFs?)
-ggplot(df%>%filter(scenario!="Baseline"), 
+ggplot(df%>%filter(scenario!="Baseline")%>%
+         filter(!(sex=="Male" & cause == "Breast cancer")), 
        aes(cause, PIF, fill=scenario))+ 
   geom_boxplot()+
   theme_bw()+
@@ -60,4 +61,10 @@ ggplot(df%>%filter(scenario!="Baseline"),
 
 ggsave("PIF_figure.jpeg", height=6, width=11)
 
+#average PIF by scenario
+df%>%group_by(scenario)%>%
+  summarise(PIF = mean(PIF))
 
+0.0645/0.0493
+
+(0.0645-0.0493)/0.0493
