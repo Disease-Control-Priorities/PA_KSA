@@ -222,15 +222,20 @@ plot1<-df%>%filter(year>=2023, year<=2040, age>=25)%>%
   select(-Baseline)%>%
   gather(scenario, death.averted, -year)
 
+library(scales)
+
 ggplot(plot1, aes(x=year, y=death.averted, color=scenario))+
   geom_line()+
   theme_bw()+
   ylab("Deaths averted")+
   xlab("Year")+
-  labs(color = "Scenario")
+  labs(color = "Scenario")+
+  scale_y_continuous(label = comma)
 
-ggsave("deaths_averted.jpeg", width = 8, height=5)
-
+ggsave("deaths_averted.tiff", width = 8, height=5, dpi=300)
+ggsave("deaths_averted.eps", width = 8, height=5, dpi=300)
+ggsave("deaths_averted.jpeg", width = 8, height=5, dpi=300)
+ggsave("deaths_averted.pdf", width=8, height = 5, dpi=300)
 
 plot2<-df%>%filter(year>=2023, year<=2040, age>=25)%>%
   group_by(year, scenario, cause)%>%
@@ -247,10 +252,13 @@ ggplot(plot2, aes(x=year, y=death.averted, color=scenario))+
   ylab("Deaths averted")+
   xlab("Year")+
   labs(color = "Scenario")+
-  facet_wrap(~cause)
+  facet_wrap(~cause)+
+  scale_y_continuous(label = comma, limits=c(0,10000))
 
-ggsave("deaths_averted_bycause.jpeg", width = 8, height=5)
-
+ggsave("deaths_averted_bycause.tiff", width = 8, height=5, dpi=300)
+ggsave("deaths_averted_bycause.eps", width = 8, height=5, dpi=300)
+ggsave("deaths_averted_bycause.jpeg", width = 8, height=5, dpi=300)
+ggsave("deaths_averted_bycause.pdf", width = 8, height=5, dpi=300)
 
 plot3<-left_join(YLLs, YLDs)%>%
   filter(year>=2023, year<=2040, age>=25)%>%
@@ -268,9 +276,13 @@ ggplot(plot3, aes(x=year, y=daly.averted, color=scenario))+
   theme_bw()+
   ylab("DALYs averted")+
   xlab("Year")+
-  labs(color = "Scenario")
+  labs(color = "Scenario")+
+  scale_y_continuous(label = comma, limits=c(0,3e5))
 
-ggsave("dalys_averted.jpeg", width = 8, height=5)
+ggsave("dalys_averted.tiff", width = 8, height=5, dpi=300)
+ggsave("dalys_averted.eps", width = 8, height=5, dpi=300)
+ggsave("dalys_averted.jpeg", width = 8, height=5, dpi=300)
+ggsave("dalys_averted.pdf", width = 8, height=5, dpi=300)
 
 
 plot4<-left_join(YLLs, YLDs)%>%
@@ -290,9 +302,13 @@ ggplot(plot4, aes(x=year, y=daly.averted, color=scenario))+
   ylab("DALYs averted")+
   xlab("Year")+
   labs(color = "Scenario")+
-  facet_wrap(~cause)
+  facet_wrap(~cause)+
+  scale_y_continuous(label = comma, limits=c(0,2e5))
 
-ggsave("dalys_averted_bycause.jpeg", width = 8, height=5)
+ggsave("dalys_averted_bycause.eps", width = 8, height=5, dpi=300)
+ggsave("dalys_averted_bycause.tiff", width = 8, height=5, dpi=300)
+ggsave("dalys_averted_bycause.jpeg", width = 8, height=5, dpi=300)
+ggsave("dalys_averted_bycause.pdf", width = 8, height=5, dpi=300)
 
 
 #Ischemic heart disease
@@ -320,9 +336,13 @@ ggplot(plot5, aes(x=year, y=cum.da, fill=cause))+
   ylab("Cumulative deaths averted")+
   xlab("Year")+
   labs(fill = "Cause")+
-  theme_bw()
+  theme_bw()+
+  scale_y_continuous(label = comma, limits = c(0,120000))
 
-ggsave("cumulative_deaths_averted.jpeg", height = 5, width = 8)
+ggsave("cumulative_deaths_averted.eps", height = 5, width = 8, dpi=300)
+ggsave("cumulative_deaths_averted.tiff", height = 5, width = 8, dpi=300)
+ggsave("cumulative_deaths_averted.jpeg", height = 5, width = 8, dpi=300)
+ggsave("cumulative_deaths_averted.pdf", height = 5, width = 8, dpi=300)
 
 
 plot6<-plot4%>%
@@ -335,9 +355,13 @@ ggplot(plot6, aes(x=year, y=cum.da, fill=cause))+
   ylab("Cumulative DALYs averted")+
   xlab("Year")+
   labs(fill = "Cause")+
-  theme_bw()
+  theme_bw()+
+  scale_y_continuous(label = comma, limits=c(0,3e6))
 
-ggsave("cumulative_dalys_averted.jpeg", height = 5, width = 8)
+ggsave("cumulative_dalys_averted.tiff", height = 5, width = 8, dpi=300)
+ggsave("cumulative_dalys_averted.eps", height = 5, width = 8, dpi=300)
+ggsave("cumulative_dalys_averted.jpeg", height = 5, width = 8, dpi=300)
+ggsave("cumulative_dalys_averted.pdf", height = 5, width = 8, dpi=300)
 
 
 

@@ -59,7 +59,11 @@ ggplot(df%>%filter(scenario!="Baseline")%>%
 
 #scale (0 to 0.16 by 0.2)
 
-ggsave("PIF_figure.jpeg", height=6, width=11)
+ggsave("PIF_figure.tiff", height=6, width=11, dpi=300)
+ggsave("PIF_figure.eps", height=6, width=11, dpi=300)
+ggsave("PIF_figure.pdf", height=6, width=11, dpi=300)
+ggsave("PIF_figure.jpg", height=6, width=11, dpi=300)
+
 
 #average PIF by scenario
 df%>%group_by(scenario)%>%
